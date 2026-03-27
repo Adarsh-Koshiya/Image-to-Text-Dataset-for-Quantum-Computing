@@ -85,3 +85,4 @@ The pipeline consists of the following stages:
 ## Conclusion
 
 The dataset compilation is feasible for large-scale collection, with automated methods achieving high quality. Challenges like filtering and metadata extraction are solvable via refined heuristics. For massive scales (e.g., 10,000+ images), parallel processing and occasional manual review would be needed, but the pipeline's modularity supports this. The result demonstrates the potential for ML models in quantum computing visualization.</content>
+<parameter name="filePath">/Users/adarsh/MAI/Sem - 3/NLP_Project/NLP_2/README.md
